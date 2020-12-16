@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    width: 620px;
+    border: 2px solid #4E7CFA;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.ct2{
+    background-color: tomato;
+    margin-top: 15px;
+}
+
+.item{
+    width: 45px;
+    height: 45px;
+}
+
+.it1{
+    background-color:#4E7CFA;
+}
+
+.it2{
+    background-color: purple;
+}
